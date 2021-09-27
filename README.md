@@ -7,19 +7,19 @@ Homework/project in **Object-Oriented Programming 1 (13E112OO1)** at University 
 
 For each problem, a system of classes providing certain functions is written in C++. The requirements are described in respective problem statements. 
 
-* 1. problem (dz1) - Images
+* 1. problem 1 - Images
     * classes: Pixel, Position, Image, BlackWhiteImage
-* 2. problem (dz2) - Notifications
+* 2. problem 2 - Notifications
     * classes: Notification, Post, NotificationList, User
-* 3. problem (dz3) - Device warranty
+* 3. problem 3 - Device warranty
     * classes: Date, Fault, Warranty, Device, AC
-* 4. problem (dz4) - Bank accounts
+* 4. problem 4 - Bank accounts
     * classes: Date, Person, BankAccount, CheckingAccount
-* 5. problem (dz5) - Food recipes
+* 5. problem 5 - Food recipes
     * classes: NutritionalValue, Groceries, Ingredient, List
-* 6. problem (dz6) - Football matches
+* 6. problem 6 - Football matches
     * classes: Player, Team, PrivilagedTeam, Pair, Match
-* 7. problem (dz7) - Arithmetic expressions
+* 7. problem 7 - Arithmetic expressions
     * classes: List, Element, Operand, BinaryOperator, Addition, LeftParenthesis, RightParenthesis, Expression, PostfixGenerator
-* 8. problem (dz8) - Travel agency
+* 8. problem 8 - Travel agency
     * classes: Destination, Accomodation, Transport, Date, Arrangement
