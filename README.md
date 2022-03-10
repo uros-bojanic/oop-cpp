@@ -1,5 +1,5 @@
 # oop-cpp
-Object-oriented programming assignments in C++.
+Object-oriented programming assignments in C++ (done in Visual Studio 2019).
 
 Homework/project in **Object-Oriented Programming 1 (13E112OO1)** at the University of Belgrade, School of Electrical Engineering.
 
