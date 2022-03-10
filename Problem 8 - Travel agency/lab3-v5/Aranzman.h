@@ -12,10 +12,9 @@ private:
 	Datum datum_pocetka, datum_kraja;
 	Smestaj* smestaj;
 	Prevoz* prevoz;
-	bool zadat_smestaj, zadat_prevoz;
 public:
 	// Konstruktori
-	Aranzman(const Destinacija& destinacija = Destinacija(), const Datum& datum_pocetka = Datum(), const Datum& datum_kraja = Datum());
+	Aranzman(const Destinacija& destinacija, const Datum& datum_pocetka, const Datum& datum_kraja);
 	// Getteri
 	const Destinacija& dohvati_destinacija() const;
 	const Datum& dohvati_datum_pocetka() const;

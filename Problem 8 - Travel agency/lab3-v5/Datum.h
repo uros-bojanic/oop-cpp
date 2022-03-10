@@ -9,7 +9,7 @@ private:
 	int dan, mes, god;
 public:
 	// Konstruktori
-	Datum(int dan = 1, int mes = 1, int god = 1);
+	Datum(int dan, int mes, int god);
 	// Getteri
 	int dohvati_dan() const;
 	int dohvati_mes() const;
