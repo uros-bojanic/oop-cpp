@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CrnoBelaSlika">
+    <Position X="0.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CrnoBelaSlika.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Galerija">
+    <Position X="0.5" Y="7.5" Width="2.25" />
+    <NestedTypes>
+      <Struct Name="Galerija::Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Galerija.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgAACAAAAAAAAAQAAAAEAQgAAEAAAAAAAAgA=</HashCode>
+      <FileName>Galerija.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GalerijaUredjena">
+    <Position X="0.75" Y="11.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GalerijaUredjena.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piksel">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAABAAAAAAAACAEggQA=</HashCode>
+      <FileName>Piksel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pozicija">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACABAAAAAAAAAEAAACAQAAAAAAAAAAA=</HashCode>
+      <FileName>Pozicija.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SarenaSlika">
+    <Position X="6.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAA=</HashCode>
+      <FileName>SarenaSlika.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slika">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIQAAAAIAACgAAAEgAAAglAAgAAAAABA=</HashCode>
+      <FileName>Slika.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SivaSlika">
+    <Position X="3.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>SivaSlika.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vreme">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAQAAAAAAQAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Vreme.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
