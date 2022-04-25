@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Korisnik">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAJAAAAAAAAAAA=</HashCode>
+      <FileName>Korisnik.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lista_Obavestenja">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Lista_Obavestenja::Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Lista_Obavestenja.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAABAAAAEAAAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Lista_Obavestenja.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obavestenje">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAABAAAAAAAACIAEAAAAAQQAAAAQgg=</HashCode>
+      <FileName>Obavestenje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Objava">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objava.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
