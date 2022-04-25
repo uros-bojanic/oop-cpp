@@ -152,6 +152,9 @@
     <ClInclude Include="PrivilegovaniTim.h" />
     <ClInclude Include="Tim.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
